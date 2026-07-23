@@ -14,6 +14,20 @@
 
 详细证据见[运行记录](runs/2026-07/RUN-20260723-004-v34a-interrupted/RUN_RECORD.md)、[实际进度](runs/2026-07/RUN-20260723-004-v34a-interrupted/ACTUAL_PROGRESS.md)和[安全恢复边界](runs/2026-07/RUN-20260723-004-v34a-interrupted/SAFE_RESUME_BOUNDARY.md)。
 
+## 通俗版项目说明
+
+面向不熟悉数据库和计量方法的访问者，建议按以下顺序阅读：
+
+1. [研究题目演变与终止原因](docs/project/RESEARCH_TOPIC_EVOLUTION_PLAIN_LANGUAGE.md)
+2. [当前工作与可复用成果](docs/project/CURRENT_WORK_AND_REUSABLE_MODULES_PLAIN_LANGUAGE.md)
+3. [数据深度扫描计划与脚本说明](docs/data_atlas/DEEP_SCAN_PLAN_AND_SCRIPT_GUIDE_PLAIN_LANGUAGE.md)
+
+这三份文档分别解释：
+
+- 原题目为什么提出、做过哪些实验、为什么停止；
+- 当前已经完成的工作和可复用模块；
+- 后续深度扫描阶段、脚本职责和最终验收目标。
+
 ## 研究执行说明
 
 项目负责人负责研究问题定义、数据范围、分析规则、识别边界、脚本需求、运行检查、结果核验和路线决策。项目中形成并维护了数据清洗、字段审计、实体映射和模型验证脚本，并根据数据结构、报错和审计结果持续修订；编程和自动化辅助工具用于提高大规模处理效率。
