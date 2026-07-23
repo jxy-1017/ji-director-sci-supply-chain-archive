@@ -6,7 +6,7 @@
 
 ## 当前状态
 
-- 路线B已在正式估计前终止，状态为 `TERMINATED_DO_NOT_REVIVE`；终止依据是结果变量来源、底层字段、数据库coverage和政策单元支持不足，不是因为统计显著性。
+- 路线B已经开展探索性和技术验证估计，但在进入正式论文主规格、正式结果解释和论文写作之前终止。状态为 `TERMINATED_DO_NOT_REVIVE`；终止依据是结果变量来源、底层字段、数据库coverage和政策单元支持不足，不是因为统计显著性。
 - 四个数据域的机器级全量清点已完成；Atlas V3.4A机器深度任务尚未完成。
 - V3.4A七类全文表示连续存在第1—76批，第77—92批缺失；当前状态为 `PROJECT_ALL_DATA_ATLAS_MACHINE_DEEP_INCOMPLETE_AT_CHECKPOINT`。
 - 主题模型、语义残余重建和finalizer均未执行，`CHAT_UPLOAD_PACK`不存在。

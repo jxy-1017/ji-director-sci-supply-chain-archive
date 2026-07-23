@@ -1,9 +1,13 @@
 # Privacy scan report
 
-- Scope: 137 tracked or non-ignored candidate files.
+Validation date: 2026-07-23.
+
+- Scope: all 137 tracked files; the unrelated pre-existing untracked file was not treated as an archive candidate.
 - Personal absolute-path hits: 0.
-- Credential-value or private-key hits: 0.
-- Policy/index keyword mentions retained: 9; these describe exclusions such as Token, auth and credentials and do not contain values.
-- Fixed/excluded item: `tasks/api-codex/MASTER_GITHUB_ARCHIVE_PROMPT.md` remains local and is excluded by `.gitignore` because it contains machine-specific paths.
-- Excluded sources: raw data, full-text corpora, matrices, compressed packages, complete logs/checkpoints and authentication material.
-- Conclusion: PASS.
+- Credential-value hits: 0.
+- Private-key marker hits: 0.
+- Policy and index references to tokens, authentication and credentials contain no secret values and remain as exclusion guidance.
+- `tasks/api-codex/MASTER_GITHUB_ARCHIVE_PROMPT.md` remains local and excluded by `.gitignore` because it contains machine-specific paths.
+- Raw data, full-text corpora, matrices, compressed packages, complete external logs/checkpoints and authentication material remain excluded.
+
+Conclusion: PASS.
