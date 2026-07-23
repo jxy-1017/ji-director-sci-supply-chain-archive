@@ -1,0 +1,6 @@
+asset_id,hash_status,hash_value,reason
+DS-001,NOT_HASHED_RESTRICTED,,original/technical panel
+DS-002,NOT_HASHED_COMMERCIAL,,commercial database
+DS-003,NOT_HASHED_RESTRICTED,,licensed source package
+DS-004,NOT_HASHED_LARGE_CORPUS,,full-text corpus
+DS-005,NOT_HASHED_RESTRICTED,,technical panel

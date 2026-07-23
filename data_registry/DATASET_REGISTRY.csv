@@ -1,0 +1,6 @@
+asset_id,logical_name,domain,file_name,bytes,hash_status,rows,columns,years,license_status,git_status,exclusion_reason,related_script,related_run
+DS-001,链长制政策与企业面板,policy-panel,not-disclosed,REGISTERED_ONLY,NOT_HASHED_RESTRICTED,not published,not published,project range,restricted project material,NOT_UPLOADED,original/technical panel,route_b index,historical
+DS-002,FactSet/Revere供应链关系,supply-chain-relations,not-disclosed,REGISTERED_ONLY,NOT_HASHED_COMMERCIAL,5245666 scanned,not published,source coverage,commercial,NOT_UPLOADED,commercial database,factset index,Atlas V3/V3.4A
+DS-003,GSDB制裁数据,sanctions,not-disclosed,REGISTERED_ONLY,NOT_HASHED_RESTRICTED,not published,not published,source coverage,restricted,NOT_UPLOADED,licensed source package,atlas index,Atlas V3
+DS-004,MD&A TXT语料,mda-fulltext,not-disclosed,part of 49.434GB unique readable scope,NOT_HASHED_LARGE_CORPUS,68470 documents,n/a,1998-2024,restricted full text,NOT_UPLOADED,full-text corpus,mda_text index,V3/V3.4A
+DS-005,MD&A结构化面板,mda-structured,not-disclosed,REGISTERED_ONLY,NOT_HASHED_RESTRICTED,not published,170 profiled,source coverage,restricted,NOT_UPLOADED,technical panel,profile_all_structured_fields_v3_4a.py,RUN-20260723-004

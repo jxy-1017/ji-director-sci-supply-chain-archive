@@ -1,0 +1,36 @@
+# Local master prompt contains machine-specific paths and remains local only.
+tasks/api-codex/MASTER_GITHUB_ARCHIVE_PROMPT.md
+
+# Raw and derived data / models
+*.dta
+*.sas7bdat
+*.sav
+*.parquet
+*.feather
+*.rds
+*.npz
+*.npy
+*.pkl
+*.pickle
+*.joblib
+*.sqlite
+*.sqlite3
+*.db
+*.rar
+*.7z
+*.zip
+*.tar
+*.gz
+*.xlsx
+*.pdf
+*.docx
+
+# Secrets and local environments
+.env
+.env.*
+*credentials*
+*token*
+auth.json
+__pycache__/
+*.pyc
+.venv/
