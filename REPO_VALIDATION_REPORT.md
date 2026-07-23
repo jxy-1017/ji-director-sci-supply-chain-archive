@@ -27,7 +27,7 @@
 - Weekly-log directories: 24.
 - Script-index entries: 12.
 - Dataset-registry entries: 5.
-- Local thematic commits after the initial repository commit: 7.
+- Local thematic commits after the initial repository commit: 8.
 - Broken relative links: 0.
 - CSV parse errors: 0.
 - JSON parse errors: 0.
