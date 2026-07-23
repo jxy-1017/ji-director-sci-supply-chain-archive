@@ -1,0 +1,2 @@
+run_id,date,task,status,result_status,record,progress,resume_boundary
+RUN-20260723-004-v34a-interrupted,2026-07-23,V3.4A machine-deep full-text representations,INTERRUPTED,METHOD_VALIDATION_ONLY,2026-07/RUN-20260723-004-v34a-interrupted/RUN_RECORD.md,2026-07/RUN-20260723-004-v34a-interrupted/ACTUAL_PROGRESS.md,2026-07/RUN-20260723-004-v34a-interrupted/SAFE_RESUME_BOUNDARY.md
