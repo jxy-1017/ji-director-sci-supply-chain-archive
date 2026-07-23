@@ -1,0 +1,153 @@
+{
+  "project": "ji-director-sci-supply-chain",
+  "version": "V3.4A",
+  "snapshot_date": "2026-07-23",
+  "checkpoint_files_found": [
+    "factset_security_mapping_v3_4a.json",
+    "factset_terminal_semantics_v3_4a.json",
+    "factset_working_copy_v3_4a.json",
+    "mda_encoding_section_v3_4a.json",
+    "structured_field_profiles_v3_4a.json",
+    "text_anomaly_decodes_v3_4a.json"
+  ],
+  "last_confirmed_phase": "representation build interrupted after batch 76",
+  "representation_status": {
+    "expected_batch_count": 92,
+    "families": {
+      "future_outlook_char_2_3gram_tfidf": {
+        "representation_name": "future_outlook_char_2_3gram_tfidf",
+        "expected_batch_count": 92,
+        "existing_batch_count": 76,
+        "minimum_batch": 1,
+        "maximum_batch": 76,
+        "missing_batches": "77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92",
+        "duplicate_batches": "",
+        "zero_byte_batches": "",
+        "suspicious_batches": "",
+        "first_missing_batch": 77,
+        "last_modified_time": "2026-07-23T00:06:49+08:00",
+        "load_test_status": "NOT_RUN_SCIPY_UNAVAILABLE; ZIP_DIRECTORY_OK_ALL",
+        "final_status": "PARTIAL_CONTIGUOUS_TO_76"
+      },
+      "mda_char_2_4gram_tfidf": {
+        "representation_name": "mda_char_2_4gram_tfidf",
+        "expected_batch_count": 92,
+        "existing_batch_count": 76,
+        "minimum_batch": 1,
+        "maximum_batch": 76,
+        "missing_batches": "77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92",
+        "duplicate_batches": "",
+        "zero_byte_batches": "",
+        "suspicious_batches": "",
+        "first_missing_batch": 77,
+        "last_modified_time": "2026-07-23T00:05:05+08:00",
+        "load_test_status": "NOT_RUN_SCIPY_UNAVAILABLE; ZIP_DIRECTORY_OK_ALL",
+        "final_status": "PARTIAL_CONTIGUOUS_TO_76"
+      },
+      "mda_section_heading_tfidf": {
+        "representation_name": "mda_section_heading_tfidf",
+        "expected_batch_count": 92,
+        "existing_batch_count": 76,
+        "minimum_batch": 1,
+        "maximum_batch": 76,
+        "missing_batches": "77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92",
+        "duplicate_batches": "",
+        "zero_byte_batches": "",
+        "suspicious_batches": "",
+        "first_missing_batch": 77,
+        "last_modified_time": "2026-07-23T00:06:02+08:00",
+        "load_test_status": "NOT_RUN_SCIPY_UNAVAILABLE; ZIP_DIRECTORY_OK_ALL",
+        "final_status": "PARTIAL_CONTIGUOUS_TO_76"
+      },
+      "mda_wide_dictionary_cooccurrence": {
+        "representation_name": "mda_wide_dictionary_cooccurrence",
+        "expected_batch_count": 92,
+        "existing_batch_count": 76,
+        "minimum_batch": 1,
+        "maximum_batch": 76,
+        "missing_batches": "77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92",
+        "duplicate_batches": "",
+        "zero_byte_batches": "",
+        "suspicious_batches": "",
+        "first_missing_batch": 77,
+        "last_modified_time": "2026-07-23T00:06:49+08:00",
+        "load_test_status": "NOT_RUN_SCIPY_UNAVAILABLE; ZIP_DIRECTORY_OK_ALL",
+        "final_status": "PARTIAL_CONTIGUOUS_TO_76"
+      },
+      "mda_word_tfidf": {
+        "representation_name": "mda_word_tfidf",
+        "expected_batch_count": 92,
+        "existing_batch_count": 76,
+        "minimum_batch": 1,
+        "maximum_batch": 76,
+        "missing_batches": "77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92",
+        "duplicate_batches": "",
+        "zero_byte_batches": "",
+        "suspicious_batches": "",
+        "first_missing_batch": 77,
+        "last_modified_time": "2026-07-23T00:05:02+08:00",
+        "load_test_status": "NOT_RUN_SCIPY_UNAVAILABLE; ZIP_DIRECTORY_OK_ALL",
+        "final_status": "PARTIAL_CONTIGUOUS_TO_76"
+      },
+      "risk_char_2_3gram_tfidf": {
+        "representation_name": "risk_char_2_3gram_tfidf",
+        "expected_batch_count": 92,
+        "existing_batch_count": 76,
+        "minimum_batch": 1,
+        "maximum_batch": 76,
+        "missing_batches": "77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92",
+        "duplicate_batches": "",
+        "zero_byte_batches": "",
+        "suspicious_batches": "2",
+        "first_missing_batch": 77,
+        "last_modified_time": "2026-07-23T00:06:03+08:00",
+        "load_test_status": "NOT_RUN_SCIPY_UNAVAILABLE; ZIP_DIRECTORY_OK_ALL",
+        "final_status": "PARTIAL_CONTIGUOUS_TO_76"
+      },
+      "supply_chain_char_2_3gram_tfidf": {
+        "representation_name": "supply_chain_char_2_3gram_tfidf",
+        "expected_batch_count": 92,
+        "existing_batch_count": 76,
+        "minimum_batch": 1,
+        "maximum_batch": 76,
+        "missing_batches": "77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92",
+        "duplicate_batches": "",
+        "zero_byte_batches": "",
+        "suspicious_batches": "",
+        "first_missing_batch": 77,
+        "last_modified_time": "2026-07-23T00:06:47+08:00",
+        "load_test_status": "NOT_RUN_SCIPY_UNAVAILABLE; ZIP_DIRECTORY_OK_ALL",
+        "final_status": "PARTIAL_CONTIGUOUS_TO_76"
+      }
+    },
+    "npz_total": 532,
+    "zip_errors": [],
+    "load_npz_validation": "NOT_RUN_NO_EXISTING_SCIPY_ENVIRONMENT",
+    "risk_char_2_3gram_tfidf_outliers": [
+      {
+        "batch_id": 1,
+        "bytes": 66179,
+        "ratio": 0.079887,
+        "zip": "ZIP_OK_REQUIRED_MEMBERS_PRESENT",
+        "modified": "2026-07-22T22:09:29+08:00"
+      },
+      {
+        "batch_id": 2,
+        "bytes": 75670,
+        "ratio": 0.091343,
+        "zip": "ZIP_OK_REQUIRED_MEMBERS_PRESENT",
+        "modified": "2026-07-22T22:10:05+08:00"
+      }
+    ]
+  },
+  "topic_status": "STATIC_SYNTAX_CHECKED_ONLY; no v3_4a output/checkpoint",
+  "residual_status": "STATIC_SYNTAX_CHECKED_ONLY; no v3_4a output/checkpoint",
+  "finalizer_status": "STATIC_SYNTAX_CHECKED_ONLY; no finalizer output/checkpoint",
+  "upload_pack_status": "NOT_EXECUTED; CHAT_UPLOAD_PACK absent",
+  "safe_resume": "SAFE_RESUME_CONDITIONAL_ON_TARGETED_NPZ_LOAD_TEST",
+  "unresolved_items": [
+    "Specified chat PDF and old Codex run record are SOURCE_FILE_NOT_FOUND.",
+    "No representation checkpoint found.",
+    "No existing Python interpreter with scipy/scipy.sparse was found; targeted load_npz checks remain required before unconditional resume."
+  ]
+}

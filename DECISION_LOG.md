@@ -1,0 +1,15 @@
+# 决策日志
+
+TASK说明计划，RUN说明实际执行，DECISION记录依据证据作出的选择。
+
+- [DEC-202603-001 启动供应链SCI论文前期研究](docs/decisions/DEC-202603-001-project-start.md)（2026-03）
+- [DEC-202605-002 同时保留路线A与路线B](docs/decisions/DEC-202605-002-keep-routes-a-b.md)（2026-05）
+- [DEC-202606-003 优先推进路线B识别可行性](docs/decisions/DEC-202606-003-prioritize-route-b.md)（2026-06）
+- [DEC-20260717-004 真实G与现代分期DID技术管道通过](docs/decisions/DEC-20260717-004-true-g-csdid-validated.md)（2026-07-17）
+- [DEC-20260720-005 成品韧性指数不得作为正式结果变量](docs/decisions/DEC-20260720-005-resilience-index-blocked.md)（2026-07-20）
+- [DEC-20260721-006 路线B正式终止](docs/decisions/DEC-20260721-006-route-b-terminated.md)（2026-07-21）
+- [DEC-20260722-007 新选题前建立全项目数据Atlas](docs/decisions/DEC-20260722-007-build-data-atlas.md)（2026-07-22）
+- [DEC-20260723-008 V3.4A在机器深度阶段中断](docs/decisions/DEC-20260723-008-v34a-interrupted.md)（2026-07-23）
+- [DEC-20260723-009 证据重建确认全文表示76/92](docs/decisions/DEC-20260723-009-v34a-76-of-92.md)（2026-07-23）
+
+V3.4A证据见[运行记录](runs/2026-07/RUN-20260723-004-v34a-interrupted/RUN_RECORD.md)。

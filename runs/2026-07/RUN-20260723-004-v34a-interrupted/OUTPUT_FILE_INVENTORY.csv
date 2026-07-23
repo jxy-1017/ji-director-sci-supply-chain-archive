@@ -1,0 +1,22 @@
+file_name,logical_path,file_type,bytes,modified_time,rows_or_shape,status,related_script,evidence_id,github_eligible,exclusion_reason
+factset_security_mapping_v3_4a.json,<WORK_ROOT>/checkpoints/factset_security_mapping_v3_4a.json,json,548,2026-07-22T19:03:08+08:00,JSON_VALID,PRESENT,checkpoint,E-CHK-01,NO,Evidence summarized; source not copied.
+factset_terminal_semantics_v3_4a.json,<WORK_ROOT>/checkpoints/factset_terminal_semantics_v3_4a.json,json,483,2026-07-22T18:32:25+08:00,JSON_VALID,PRESENT,checkpoint,E-CHK-01,NO,Evidence summarized; source not copied.
+factset_working_copy_v3_4a.json,<WORK_ROOT>/checkpoints/factset_working_copy_v3_4a.json,json,750,2026-07-22T19:47:07+08:00,JSON_VALID,PRESENT,checkpoint,E-CHK-01,NO,Evidence summarized; source not copied.
+mda_encoding_section_v3_4a.json,<WORK_ROOT>/checkpoints/mda_encoding_section_v3_4a.json,json,5754,2026-07-22T21:03:27+08:00,JSON_VALID,PRESENT,checkpoint,E-CHK-01,NO,Evidence summarized; source not copied.
+structured_field_profiles_v3_4a.json,<WORK_ROOT>/checkpoints/structured_field_profiles_v3_4a.json,json,263,2026-07-22T18:01:19+08:00,JSON_VALID,PRESENT,checkpoint,E-CHK-01,NO,Evidence summarized; source not copied.
+text_anomaly_decodes_v3_4a.json,<WORK_ROOT>/checkpoints/text_anomaly_decodes_v3_4a.json,json,234,2026-07-22T21:04:59+08:00,JSON_VALID,PRESENT,checkpoint,E-CHK-01,NO,Evidence summarized; source not copied.
+factset_extract_stderr.log,<WORK_ROOT>/logs/factset_extract_stderr.log,log,0,2026-07-22T12:56:37+08:00,,ZERO_BYTE_LOG,runtime-log,E-LOG-01,NO,Evidence summarized; source not copied.
+factset_extract_stdout.log,<WORK_ROOT>/logs/factset_extract_stdout.log,log,0,2026-07-22T12:56:37+08:00,,ZERO_BYTE_LOG,runtime-log,E-LOG-01,NO,Evidence summarized; source not copied.
+factset_scan_retry_stderr.log,<WORK_ROOT>/logs/factset_scan_retry_stderr.log,log,0,2026-07-22T13:13:58+08:00,,ZERO_BYTE_LOG,runtime-log,E-LOG-01,NO,Evidence summarized; source not copied.
+factset_scan_retry_stdout.log,<WORK_ROOT>/logs/factset_scan_retry_stdout.log,log,854,2026-07-22T13:17:25+08:00,,PRESENT,runtime-log,E-LOG-01,NO,Evidence summarized; source not copied.
+factset_scan_stderr.log,<WORK_ROOT>/logs/factset_scan_stderr.log,log,501,2026-07-22T13:13:08+08:00,,PRESENT,runtime-log,E-LOG-01,NO,Evidence summarized; source not copied.
+factset_scan_stdout.log,<WORK_ROOT>/logs/factset_scan_stdout.log,log,854,2026-07-22T13:13:06+08:00,,PRESENT,runtime-log,E-LOG-01,NO,Evidence summarized; source not copied.
+mda_panel_scan_stderr.log,<WORK_ROOT>/logs/mda_panel_scan_stderr.log,log,0,2026-07-22T13:20:41+08:00,,ZERO_BYTE_LOG,runtime-log,E-LOG-01,NO,Evidence summarized; source not copied.
+mda_panel_scan_stdout.log,<WORK_ROOT>/logs/mda_panel_scan_stdout.log,log,186,2026-07-22T13:21:02+08:00,,PRESENT,runtime-log,E-LOG-01,NO,Evidence summarized; source not copied.
+mda_topic_model_stderr.log,<WORK_ROOT>/logs/mda_topic_model_stderr.log,log,404,2026-07-22T14:33:12+08:00,,PRESENT,runtime-log,E-LOG-01,NO,Evidence summarized; source not copied.
+mda_topic_model_stdout.log,<WORK_ROOT>/logs/mda_topic_model_stdout.log,log,0,2026-07-22T14:30:32+08:00,,ZERO_BYTE_LOG,runtime-log,E-LOG-01,NO,Evidence summarized; source not copied.
+mda_txt_index_stderr.log,<WORK_ROOT>/logs/mda_txt_index_stderr.log,log,0,2026-07-22T13:51:05+08:00,,ZERO_BYTE_LOG,runtime-log,E-LOG-01,NO,Evidence summarized; source not copied.
+mda_txt_index_stdout.log,<WORK_ROOT>/logs/mda_txt_index_stdout.log,log,1194,2026-07-22T14:18:30+08:00,,PRESENT,runtime-log,E-LOG-01,NO,Evidence summarized; source not copied.
+small_structured_stderr.log,<WORK_ROOT>/logs/small_structured_stderr.log,log,0,2026-07-22T13:02:16+08:00,,ZERO_BYTE_LOG,runtime-log,E-LOG-01,NO,Evidence summarized; source not copied.
+small_structured_stdout.log,<WORK_ROOT>/logs/small_structured_stdout.log,log,0,2026-07-22T13:02:16+08:00,,ZERO_BYTE_LOG,runtime-log,E-LOG-01,NO,Evidence summarized; source not copied.
+representations (aggregate),<REPRESENTATION_ROOT>/,npz-batch-set,1407913537,2026-07-23T00:06:49+08:00,532 NPZ files; 7 families,PARTIAL_CONTIGUOUS_TO_76,build_fulltext_representations_v3_4a.py,E-REP-01,NO,Derived matrices excluded from GitHub.

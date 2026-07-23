@@ -1,0 +1,6 @@
+asset_id,logical_name,size_or_scope,status,reason
+DS-001,链长制政策与企业面板,REGISTERED_ONLY,EXCLUDED_FROM_GIT,original/technical panel
+DS-002,FactSet/Revere供应链关系,REGISTERED_ONLY,EXCLUDED_FROM_GIT,commercial database
+DS-003,GSDB制裁数据,REGISTERED_ONLY,EXCLUDED_FROM_GIT,licensed source package
+DS-004,MD&A TXT语料,part of 49.434GB unique readable scope,EXCLUDED_FROM_GIT,full-text corpus
+DS-005,MD&A结构化面板,REGISTERED_ONLY,EXCLUDED_FROM_GIT,technical panel

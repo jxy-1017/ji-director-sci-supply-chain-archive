@@ -1,0 +1,3 @@
+checkpoint_id,date,version,status,logical_location,related_run,notes
+CKPT-20260722-v3_2-validated,2026-07-22,V3.2,VALIDATED_SUMMARY_ONLY,<WORK_ROOT>/checkpoints,historical Atlas V3/V3.2,Complete machine workspace not copied.
+CKPT-20260723-v3_4a-interrupted,2026-07-23,V3.4A,INCOMPLETE_AT_BATCH_76,../runs/2026-07/RUN-20260723-004-v34a-interrupted/CHECKPOINT_SUMMARY.json,RUN-20260723-004-v34a-interrupted,Conditional resume; batches 77–92 absent.

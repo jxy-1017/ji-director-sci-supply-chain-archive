@@ -1,0 +1,4 @@
+evidence_id,type,claim,logical_location,status
+EV-RB-001,decision,路线B在正式论文主规格、正式结果解释和论文写作之前终止,docs/routes/route_b/ROUTE_B_TERMINATION_RECORD.md,VALIDATED_DECISION
+EV-ATLAS-001,run,V3.4A全文表示76/92,runs/2026-07/RUN-20260723-004-v34a-interrupted/REPRESENTATION_BATCH_STATUS.csv,VALIDATED_FROZEN_INPUT
+EV-ATLAS-002,checkpoint,条件安全恢复,runs/2026-07/RUN-20260723-004-v34a-interrupted/SAFE_RESUME_BOUNDARY.md,VALIDATED_FROZEN_INPUT
